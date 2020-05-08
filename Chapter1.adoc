@@ -1,0 +1,746 @@
+= A Brief History of the English New Testament: What every Christian should know about the English language Bible.
+:stylesheet: docbook-xsl.css
+//:pdf-stylesdir: .
+//:pdf-fontsdir: fonts
+//:pdf-style: pdf-theme.yml
+:author: Dr Kevin Philp
+:email: kevin@cybercolloids.net
+:revnumber: 2.0
+:revdate: 06-05-2020
+:revremark: Convert to Asciidoctor and epub
+:plus: &#43;
+:toc:
+:toclevels: 4 
+
+== Introduction 
+
+Comments and corrections welcome. However before you dash off an email
+enumerating my errors please bear in mind that I am not a professional
+historian, just an English speaking Christian fascinated in the story
+of how the English language bible came about and thankful to the brave
+men who risked so much to make it possible. This short article looks
+at a bit of history that every English speaking Christian should know
+but few do. How did we get the book we read every day and why was much
+effort spent trying to prevent it? Its a story of politics, oppression
+and even murder.
+
+== The Early Years
+
+We need to start at very beginning. The New Testament is a collection
+of letters, gospels, some history (Acts) and one apocalypse
+(Revelation). It was written over about a forty year period in the
+first century AD. Despite the order in our New Testament the earliest
+writings are actually Paul's letters - probably 1 Thessalonians about
+52AD followed by Galatians, the gospels were written from about 66AD
+onwards and Revelation was the last written around 80-90AD. This
+eclectic mix makes up the New Testament.
+
+The gospels appear, on casual reading, to be written like short
+histories but we need to be careful not to let our modern views bias
+how we read documents written two thousand years ago by people were
+not necessarily writing documents for historical record. For example
+there is some evidence that Matthew's gospel was written as a
+lectionary with readings based around the Jewish year as the order
+within the gospel can be aligned with the Jewish calendar. The first
+part of John's gospel was written to mirror the creation story in
+Genesis.
+
+We know the earliest documents were the letters and we know these and
+other documents were passed around from Church to Church. Paul's
+letter to the Colossians says as much.
+
+[quote, Colossians 4 NRSV]
+____
+(16) And when this letter has been read among you, have it read also
+in the church of the Laodiceans; and see that you read also the letter
+from Laodicea.
+
+____
+
+The letter from Laodicea is probably lost although it might be the
+letter we call Ephesians. It is possible that the letter to Laodicea
+was passed on to the Ephesians and it just happens that the copy that
+survived was the Ephesian's copy.
+
+In passing these documents around they were copied over and over. The
+people doing this copying in the early days were not usually
+professional scribes but interested Church members. This brings us to
+a crucial piece of understanding in the bible story - the texts we
+have contain variant readings, they are not all the same. The earliest
+period is when most variations in the texts are found, later
+documents, professionally copied, were more consistent. So the
+historical documents we have are not always exactly the same and
+dealing with these variations is a challenge we are still dealing with
+today.
+
+What are these variations? The vast majority are simple and obvious
+errors: spelling mistakes, missing words sometimes a skipped line.
+Some changes were deliberate to support a specific view point. Some
+changes are _"corrections"_ based on the scribes belief that
+there was a mistake in the text he was copying which may have been
+wrong. A classic example of this is in Romans 16.
+
+[quote, Romans 16, NRSV]
+____
+(7) Greet Andronicus and Junia, my relatives who were in prison with
+me; they are prominent among the apostles, and they were in Christ
+before I was.
+____
+
+Junia is a woman's name and this was recognised by the early Church
+fathers as such. However a medieval scribe thought it must be a
+mistake, after all how could a woman be an apostle? So he helpfully
+changed it to the male name (Junias). This change found it's way into
+twentieth century critical texts and hence early versions of the NIV
+and other translations have the male name. Later in the twentieth
+century it was noted that the male name Junias didn't actually exist
+in any Greek literature and was not found in the earlier texts and the
+_"correction"_ was changed back. The latest NIV is correct and
+has the female name. A classic example of someone's doctrine and
+theology getting in the way of their copying or translating correctly.
+
+== The Canon of Scripture 
+  
+So why are the books in the New Testament the ones we have considering
+there were lots of books and letters that are not in the New Testament
+that were in circulation in the first and second century?
+
+The first canon of the New Testament was laid down by Marcion around
+140AD. However there were quite a few issues. Marcion included only
+the letters of Paul and the gospel of Luke. Marcion believed the God
+the Old Testament and God of the New Testament were different and
+edited the text of the books in his canon to ensure they reflected his
+views. He was later declared a heretic.
+  
+Irenaeus in 180AD was the next major figure to have some form of
+defined canon. His canon had four gospels, Acts and Paul's letters. He
+did not include Hebrews or Philemon and he included the Shepherd of
+Hermas which we don't have today.
+
+The Muratorian fragment is a late second century fragment that is the
+earliest known record that contains a list of books similar to our
+current list of 27 books.
+
+The first list of books that matches exactly our current 27 books was
+from Athanasius in 367AD. Note that for over 300 years there was no
+definitive list we would recognise, there was no New Testament as we
+know it today.
+
+The list of 27 books was accepted for over a thousand years and was
+not really questioned until the reformation. Martin Luther tried to
+remove Hebrews, James, Jude and Revelation from the bible but the
+changes were not accepted by his followers. He famously called James
+_"a right strawy epistle"_. Even today, the books Luther tried to
+remove are at the back of the German language Lutheran bible. He moved
+them to the back of the bible but didn't quite push them out.
+
+The Orthodox Church has the same New Testament canon as the western
+Churches. There is surprising unity on the books of the New Testament,
+where Churches disagree is over what should be in the Old Testament -
+but that's another story.
+  
+== The Greek New Testament
+
+=== Desiderius Erasmus
+
+To understand the development of the English language Bible we need to
+take a detour and look at the Greek New Testament and particularly a
+Dutch scholar called Desiderius Erasmus. Erasmus was the first person
+to publish a Greek New Testament.
+
+Up to this date any attempt to translate the Bible into English had
+been based on Jerome's Latin Vulgate Bible which was completed in
+405AD. But the original texts were in Greek so you ended up with a
+translation of a translation which simply multiplies problems and
+misunderstandings. Jerome's Latin Bible was the only Bible recognised
+by the Church for over a thousand years but it was a translation into
+a dead language understood by very few people and had many problems.
+But you have to give credit to a translation that remains a stadard
+for over a thousand years!
+
+Erasmus was not the first to produce a Greek New Testament, Spanish
+scholars had produced the Complutensian Polyglot; a scary sounding
+name but it simply means it came from the town whose Latin name was
+Complutum and polyglot because it had the Latin alongside the Hebrew
+for the Old Testament and the Greek for the New Testament. However the
+polyglot was not yet published and Erasmus, who had thought of
+publishing a Greek New Testament for many years, saw the opportunity
+to publish before the polyglot, but he would need to be quick if he
+wanted to be first.
+
+Erasmus went to Basel in Switzerland looking for suitable Greek texts.
+He didn't find many but he found enough manuscripts from the late
+medieval period to cover most of the books in the New Testament. He
+was missing Revelation and for that he borrowed a manuscript from a
+German friend, unfortunately the last page was missing so Erasmus
+filled in the gap by translating the Latin Vugate back into Greek;
+this gives Erasmus's text one of its many quirks - the last page in
+Erasmus's Greek text is not found in any ancient Greek manuscript -
+Erasmus back worked it from the Latin to fill a gap.
+
+Erasmus's Greek New Testament was published in 1515 and was a parallel
+Latin and Greek New Testament. Erasmus himself said the text was
+_"rushed out rather than edited"_. The Erasmus Greek New Testament was
+prepared in a hurry and based on just a few late manuscripts. However
+it was ground breaking in that it gave scholars access to the original
+language in an accessible, printed form for the first time and
+although it wasn't based on the best quality texts it became the basis
+for all English Bibles for the next three hundred years
+
+The Erasmus Greek Text was based on documents that came to be known as the
+_"Textus Receptus"_.
+
+=== John Mill
+
+During the sixteenth and seventeenth century several other Greek New
+Testaments were published but none differed much from Erasmus. Some
+scholars noted that various ancient texts did sometimes vary but it
+was not until 1707 that John Mill published a New Testament text that
+included details of all the variant readings from around 100 different
+manuscripts. Mill also studied how the early Church fathers quoted the
+New Testament and he studied early Syrian and Coptic texts. Mill spent
+thirty years collecting data and finally published a text with 30,000
+variants identified.
+
+What Mill showed was that the Textus Receptus was not the definitive
+and perfect text that many scholars had assumed and the exact wording
+of the original Greek was not always obvious.
+  
+=== Text types 
+
+The original text of the New Testament is not known exactly, there are
+texts with minor variations, John Mill clearly showed that. This was
+not a new discovery, Origen noted as early as the third century that
+different copies of certain texts did not agree. One problem scholars
+have with the Bible compared to most other ancient documents is that
+there are _so many_ documents - typically orders of magnitude more
+than any other ancient text. Most ancient texts of famous
+philosophers, poets or playwrights are known because a handful of
+texts survived. The Bible is different because there are hundreds of
+early copies of the New Testament and thousands of fragments. Recently
+it was estimated that there were 5800 important Greek manuscripts and
+about another 20,000 texts in other languages that have been studied
+and catalogued and more are found every year. A single text can be
+anything from a few words on a fragment through to a complete bible.
+
+Because there are so many texts scholars group them. All those in a
+certain group will generally share the same variant readings. The main
+groups are:
+
+Alexandrian:: Also called the Neutral or minority type. These texts
+tend to be early, usually from the 2nd to 4th century. The readings
+are generally shorter and less elaborate than later texts. They mainly
+originate from around the Alexandrian Church. The texts appear to be
+uniform and the result of careful copying. most modern translations
+are based on the Alexandrian text including the NIV, NASB, NRSV and
+ESV.
+  
+Western:: Date from the 3rd to 9th century. They are widely spread,
+less controlled in the copying and sometimes paraphrase passages.
+  
+Byzantine:: Dating from the 5th to 16th century. This group represents
+95% of all texts and hence is known as the majority text. The Textus
+Receptus is in this group. It is the basis of the King James, Geneva,
+Tyndale and several modern translations.
+
+Most modern translations are based on Alexandian type texts. So if the
+Byzantine (majority) type represents 95% of all ancient texts why are
+most modern bibles based on Alexandrian type texts instead? Well, the
+Byzantine texts have one major problem - they are all later and the
+variants they exhibit are not represented in the earlier texts, the
+earlier texts are of the Alexandrian type and modern scholars believe
+the older texts are closer to the original. The Byzantine texts appear
+to represent a group of variations from the original that was simply
+copied over and over and the fact it was copied a lot doesn't make it
+closer to the original. However a few people disagree, hence we have
+the New King James which is still based on Byzantine texts.
+
+=== Critical texts
+
+We have noted that variant texts exist, so how do we handle that?
+Scholars today collect, catalogue and study the various texts and try
+to come to some decision about what the original said. Scholars take
+each piece of the New Testament and look at all the available ancient
+copies, then they try to rate them in order of importance: which are
+the older documents? which versions are seen in multiple documents?
+When they come to a conclusion of what they believe is the closest
+possible version to the original text that becomes what is known as
+the _"critical text"_.
+
+One of the most important and first critical texts was produced by
+Westcott and Hort. They were two scholars from Cambridge. Hort
+convinced Westcott to help with a critical text based on a detailed,
+examination of the available texts - they thought it would take about
+two years - it actually took them 28 years and was published in 1881.
+Westcott-Hort were the first to give the Alexandrian type texts
+priority and they were very much the fathers of the modern critical
+text. Modern critical texts are still remarkably close to
+Westcott-Hort. Westcott-Hort upset many people because there was a
+naive belief that the King James translation was word for word perfect
+and a critical text that prioritised the Alexandrian text type
+challenged that and it was not welcome in some circles. You will find
+plenty of ignorant and venomous comments on the internet about
+Westcott-Hort.
+
+The best known and most important modern critical text is Nestle-Aland
+which is currently in its 28th edition. A new edition is issued when
+scholarship has moved on significantly. Note that over the 120 years
+since the first edition there have been 28 editions, that averages a
+new edition every 4-5 years. Considering edition 25 had over 700
+changes from the previous edition you can see how fast biblical
+scholarship has progressed in the last 120 years. The Nestle-Aland
+critical text is the text on which most modern translations are based.
+
+The other important critical text is the United Bible Societies text
+which is currently at UBS5. UBS5 has the same base text as
+Nestle-Aland 28 but the notes and references are aimed at translators
+rather than academics.
+
+There is a problem with this system. There is no definitive method of
+rating a text and methods and ideas for rating texts have varied over
+the years and scholars do not always agree. 
+   
+== Early English bibles
+
+Lets look at how the Bible made its way into English.
+
+Parts of the bible were translated into english from an early date.
+Bede completed his translation of John's gospel on the day he died in
+AD735. Parts of the Psalms and parts of the gospels had been
+translated before. Alfred the Great translated parts of the pentateuch
+himself. Various other people translated parts of the gospel and parts
+of the psalms but little else. The Norman invasion in 1066 relegated
+English to a second class language and that essentially stopped all
+efforts to translate the bible into English for the next three hundred
+years.
+
+=== John Wycliffe - 1328-1384
+
+John Wycliffe was not he first person to translate parts of the bible
+into English but may have been the first to oversee a complete
+translation into English, in fact the first complete translation of
+the bible into any modern European language. Wycliffe was a Catholic
+priest and the foremost theologian of his day in Oxford. But Wycliffe
+had some radical views, he denied transubstantiation and rejected all
+Church hierachy - including the papacy. During his lifetime Rome
+issued five warrants for his arrest but English anti-papal nobles just
+ignored the Pope and left Wycliffe alone.
+
+Wycliffe translated the bible from the Vulgate (Latin) and was an
+advocate of translating the bible into the language of the people.
+Wycliffe most likely translated the gospels and possibly the whole of
+the New Testament but his assistant probably translated the Old
+Testament. Whoever contributed it was complete by 1384. Wycliffe's
+followers were known as lollards and they attacked the veneration of
+saints, transubstantiation, the wealth of the Church, monasticism and
+the very existence of the papacy. Wycliffe wrote that Christians
+should rely on the bible and not on popes and the clergy and therefore
+they needed to read the bible in their own language. Note that radical
+dissenting views from the accepted norms of the Catholic Church were
+around long before the reformation.
+
+Wycliffe was thrown out of his professorship at Oxford and died two
+years later. After Wycliffe died in 1384 he was excommunicated, his
+writings were banned and a law was passed that the translation of the
+bible into English by unlicensed laity was a crime of heresy.
+Practically that meant from now on even owning a copy of the bible in
+English became a crime punishable by execution.
+
+One of Wycliffe's friends, John Purvey, revised the Wycliffe bible and
+the complete text was out by 1395 but parts were circulating by 1388.
+This is known as the later Wycliffe bible. We should remember this was
+over two hundred years before the King James bible.
+
+The anger of the Church should not be underestimated. Owning, copying,
+distributing or even reading the English bible was illegal and
+unauthorised bibles were burned. If you were caught and you recanted
+your _"sin"_ you went to gaol, if you didn't you were burnt at the
+stake. In 1415 the Pope ordered Wycliffe's bones to be dug up, burned
+and scattered on the river Swift.
+
+Another of Wycliffe's followers, John Hus, promoted Wycliffe's ideas
+that people should read the bible in their own language and he opposed
+the Catholic Church for condemning anyone with a non-Latin bible. He
+was burned at the stake in 1415 and they used copies of Wycliffe's
+bible as kindling to get the fire going. His last words were _"in one
+hundred years God will raise up a man whose calls for reform cannot be
+suppressed"._ One hundred and two years later in 1517 Martin Luther
+nailed his famous 95 thesis to the door of Wittenberg Cathedral and
+the reformation as we know it began.
+
+=== William Tyndale - 1494-1536
+
+We can say that modern English translations of the bible really began
+in the early 1500's and the reason was simple - the invention
+printing. Suddenly the price of reproducing books dropped dramatically
+and were within the reach of middle income families. However the
+development of the English bible would be dogged by state interference
+and suppression for hundreds of years.
+
+William Tyndale produced the first printed English bible and, until
+the twentieth century, every English bible had a basis in Tyndale's
+work and many still do. However Tyndale's work was regarded as radical
+and dangerous and the Church and English state went to lengths to stop
+him..
+
+We must not underestimate how dangerous an English translation of the
+bible in the hands of the common man was seen to be by the established
+Church and the state. Tyndale himself said the purpose of his
+translation was to _"cause a boy that driveth the plough to know more
+scripture"._ Translating the bible into English was seen as a direct
+attack on the established Church, the clergy and the state and as such
+Tyndale was a wanted man.
+
+Tyndale was the ideal man for the job, a true language genius who was
+fluent in eight languages. Tyndale worked around Europe and was on the
+run and hiding from Church and state agents for eleven years. Finally
+he was betrayed, arrested, strangled and burnt at the stake as a
+heretic. His last words were, _"Lord! Open the King of England's
+eyes."_
+
+Tyndale completed the New Testament in 1526 and it was the first
+English translation to be printed and the first translation to be
+based on the Greek texts rather than the Latin. Tyndale also had a
+gift for English and his translation was written in clear and lucid
+English that read well. Several thousand copies of Tyndale's New
+Testament were smuggled back into England. Tyndale never finished his
+translation of the Old Testament which was later finished by his
+friends.
+
+Tyndale's translation was condemned in England and copies were burned.
+The Catholic Church in England felt Tyndale had deliberately
+undermined the Church structure with some of his translation choices
+of key phrases: For Church Tyndale used congregation, for priest
+Tyndale used elder or senior, for penance he used repent and for
+charity love. Translating _"ekklesia"_ as congregation in place of
+Church was seen to undermine the Catholic Church's doctrine on the
+separation of the priesthood from the laity. The Catholic Church had a
+vested interest in maintaining a heirachy between the common man and
+God and were not about to accept anyone undermining that.
+
+Miles Coverdale and John Rogers completed Tyndale's translation and it
+was published in 1535. Hence the first complete, printed English Bible
+is known as the Coverdale Bible. John Rogers went on to re-translate
+parts of the Coverdale/Tyndale Bible using all Hebrew and Greek texts
+and published the first English bible based exclusively on the
+original Hebrew and Greek. It was published under the assumed name
+Thomas Matthew because of the risks involved if he was caught. Thomas
+Matthew was a pseudonym used by Tyndale when he was in hiding - a
+fitting tribute to his murdered friend. It is known as the
+Matthew-Tyndale Bible. However when Mary came to the throne of England
+John Rogers would also end up burnt at the stake.
+
+Covedale's translation of the psalms was eventually incorporated into
+the 1662 book of common prayer and is also in the 1926 Irish book of
+common prayer; it is still in use today. The psalms in the book of
+common prayer were simply never updated when the King James Bible
+became the standard. Coverdale's bible was also the first to move the
+Apocrypha to the end of the Old Testament.
+
+Although Tyndale's Bible was outlawed his work was used as the basis
+of most of the English translations that followed. Many of the biblical phrases
+we accept today were invented by Tyndale when there was no suitable English
+phrase.  The phrase _"passover"_ was actually invented by Tyndale to
+translate the Hebrew phrase _"pashka"_ which had no equivalent in
+English.  Other phrases Tyndale invented include scapegoat, peacemaker,
+atonement and even the word beautiful.
+
+After Tyndale there were three bibles: Coverdale, Matthew and the
+Great Bible (which was a revision of the Matthew bible) but the next
+important Bible was the Geneva.
+ 
+=== The Geneva bible
+
+When Queen Mary came to the throne she went on a rampage of murdering
+protestant reformers, many left England for the safety of the
+continent. Queen Mary burned 300 reformers in her short five year
+reign and earned the sobriquet _"bloody Mary."_
+
+The Church in Geneva, Switzerland was very helpful to the reformers so
+many settled there and the Geneva Bible project was born. Ironically
+the persecution of the reformers meant the best Bible scholars from
+England were all living together in Geneva at the same time and they
+had access to the best European Bible scholars such as John Calvin,
+Théodore de Bèze and Henry Bullinger. William Whittingham was one of
+the main contributors and was also John Calvin's brother-in-law.
+
+The Geneva Bible is not well known these days but it is probably the
+most important English Bible ever printed. The New Testament Geneva
+Bible was published in 1557 and the complete Bible in 1560. It was the
+most widely used translation in the 16th and into the 17th century. It
+was the Bible used by Oliver Cromwell, John Bunyan, Shakespeare and
+the pilgrim fathers on the Mayflower.
+
+It was popular because it was the first English Bible that was mass
+produced and came with cross-references, maps, explanatory tables and
+study notes - it was the first study Bible. It was also illustrated
+and came in a handy size - not the massive octavo size of Church
+Bibles and it was the first Bible to use numbered verses. It was the
+first ever Bible printed in Scotland where it was popular partly
+because Knox and Calvin contributed some of the commentary. The Geneva
+Bible was the first to use the Roman type fonts, as used today,
+instead of Gothic fonts making it easier to read. The Geneva Bible
+also used italics to note English words that were added to aid the
+understanding but were not present in the Greek text. The Geneva Bible
+was years ahead of its time.
+
+The Geneva Bible was based heavily on Tyndale but it was the first
+English Bible where the whole of the Old Testament was directly
+translated from the Hebrew.
+
+The official English Bible at the time was the Great Bible which was
+badly named because it had little great about it apart from its size.
+One commentator of the time noted _"the Geneva Bible drove the Great
+Bible off the field by the sheer power of its excellence"_.
+
+The style of English in the Geneva Bible is similar to what we are
+used to in the King James Bible, however it is more direct, forceful
+and ironically sounds more modern than the King James despite
+predating the King James by over fifty years. Today the 1560 Geneva
+Bible is still easier to read than the 1611 King James.
+
+So, if the Geneva Bible was so good why do we not hear about it today?
+The short answer is that it was suppressed. There were things about
+the Geneva Bible that the ruling authorities did not like. The
+commentary in the Geneva Bible was strongly puritan in nature and
+contained notes that challenged the state and the official church.
+King James specifically disliked what he saw as seditious margin notes
+in the Geneva Bible and maybe he was right, the English civil war
+would resolve the question of the divine right of kings forever and
+the parliamentarian forces all read the Geneva Bible - Oliver Cromwell
+even issued Geneva Bible tracts to his troops.
+
+The demise of the Geneva was heavily tied up with the rise of the King
+James.
+
+=== King James
+
+The Great Bible was the official Bible of the Church, but it was
+obviously inferior to the Geneva Bible. The Church brought out a new
+version in 1568, the Bishop's Bible but the English was poor and it
+was never popular.
+
+The King James Bible was the next important version and it came out of
+a conference between puritans and King James. The idea was a new Bible
+translation acceptable to both puritans and the state to help unify
+the nation. The King James Bible was not a new translation but a
+revision of older translations, particularly the Bishop's Bible. King
+James quickly hijacked the project and issued specific instructions
+for the translators to follow to ensure the new translation reflected
+the structure of the Church of England with the implied supremacy of
+the King. Something King James felt the Geneva Bible attacked. The
+King issued a list of restrictions to the translators which included:
+
+[circle]
+
+* The translators were to follow the bishops' Bible as the main reference.
+
+* _"Ekklesia"_ was to be translated church and not congregation.
+
+* There will be NO marginal notes.
+
+Some of the terms in the King James were rendered in a technical
+latinised English which also made the translation appear distant from
+commonly used English even when it was first published.
+
+The translation was by 47 scholars, all from the Church of England.
+Originally published in 1611 and also known as the _"authorised
+version"._
+
+The original King James included a preface from the translators that
+discussed certain alternative renderings, controversial points and
+specifically denied the version was perfect.
+
+[quote]
+____  
+No cause therefore why the Word translated should be denied to be the
+Word, or forbidden to be current, notwithstanding that some
+imperfections and blemishes may be noted in the setting forth of it.
+____
+
+Unfortunately this was dropped from later versions leading some people
+to believe the King James was perfect in every way.
+
+Another quirk of the King James - there is no real first edition.
+During the printing of the first edition the second, revised edition
+was rushed out and was being printed at the same time. Some of the
+pages got mixed up at the print shop. So what we have is a mixed first
+and second edition and they are not all the same depending on which
+bits of the first and second edition went into each book.
+
+The King James Bible did not sell well for several decades. The Geneva
+remained more popular with its cross-references, notes and strong,
+clear language. To increase the acceptance of the King James Bible the
+King banned the printing of the Geneva Bible. This explains why Geneva
+Bibles published as late as 1625 have a false publication date on them
+of 1599. If challenged the publisher would simply claimed they were
+old stock - they weren't.
+
+Another quirk of the Geneva Bible is that a lot of the copies that
+survive are missing the first page. The militia in England searching
+suspect peoples houses for illegal Bibles often recognised the Geneva
+Bible by its front page illustration - so if you ripped the first page
+out the illiterate militia wouldn't know its was a Geneva Bible and
+you might not end up at the stake.
+
+When the King James Bible became the official, state sanctioned Bible
+printing of the Bishops Bible was stopped and the Geneva Bible was
+banned. The King James Bible finally became popular simply because it
+was the only version you could buy legally. The Geneva Bible continued
+to be imported illegally from Amsterdam up to 1644. In 1637 both the
+printing and import of the Geneva Bible was made illegal. The state
+went to extreme lengths to suppress the Geneva Bible and replace it
+with their own version - the King James. Ironically the original King
+James Bible had various biblical quotes in the preface and they were
+all from the Geneva, not from the King James. The influence of the
+Geneva on the King James was clear.
+
+By 1769 the wide variety of King James texts being printed and the
+notorious accumulation of mistakes and misprints had reached the point
+of being scandalous. Over the period 1760 to 1769 several updates and
+standardisations were issued leading up to the 1769 edition. There are
+24,000 updates and corrections between the 1611 and 1769 edition.
+Today when people say King James Bible they invariably mean the 1769
+edition. People are often not aware that _"The King James Bible"_ was
+not one version, but many versions spreading over decades.
+
+There are some classic errors in the King James Bible that were never
+corrected. Acts 7:45 which says _"Which also our fathers that came
+after brought in with Jesus into the possession of the Gentiles"_ - it
+should say Johsua. Joshua and Jesus are also mixed up in Hebrews 4:8.
+
+The King James is not a bad translation, despite being told to base
+the translation on the bishops' Bible the translators were not stupid
+and about 80% of the King James was based on Tyndale and the Geneva,
+which they knew were better. However despite its exalted position in
+certain circles we must recognise that it was born out of political
+interference and motivations. It finally became popular, not because
+of its merits, but because it was forced on the English speaking world
+until it became such a part of everyday life and tradition that people
+forgot that it was forced upon them.
+ 
+== Modern English Translations
+
+The King James was practically the only English Bible up until 1881
+when an updated King James, the Revised Version was published. It was
+supposed to be a literal translation, like the King James but in more
+modern English, unfortunately it did not read well and was never
+popular.
+
+The American translators who worked on the RV published their own
+version in 1901, the American Standard Version (ASV), it was better
+recieved than the RV, was very literal but still not very readable.
+
+The next major version was the Revised Standard Version in 1952. It
+was based on the King James, just like the RV and ASV. Unlike the RV
+and ASV it was a great success and sold a million copies on its first
+day of release. We finally had a worthy successor to the King James.
+However the RSV was hated by some fundamentalists. The famous senator
+McCarthy even accused it of being communist! One thing that caused
+outrage amongst fundamentalists was the translation of the word
+_"almah"_ in Isaiah 7:14 which the KJV translates as _"Behold, a
+virgin shall conceive"_ but the RSV translated it as _"Behold, a young
+woman shall conceive"_. Technically the RSV is correct but the gospels
+of Matthew and Luke quoted the verse and used _"virgin"_ so where they
+wrong? The meaning of "_almah"_ shifted over time and the gospels
+writers simply used the commonly understood meaning from their time,
+but it was not the original meaning in Isaiah.
+
+The incident also showed how emotive it could be to change a commonly
+accepted translation in the light of modern scholarship. Unfortunately
+people often put doctrine first and expect their Bible to reflect
+their doctrine, this is bad thinking of the first order. Your Bible
+should be the best and most accurate translation you can achieve and
+if it does not reflect your doctrine then change your doctrine - not
+the Bible. This sort of thinking has gone on since the beginning:
+Marcion, through the middle ages, down to King James and this warped
+thinking is alive and well today. Bible translators are routinely
+accused of all sorts of crimes because the latest biblical scholarship
+questions someones favourite verse.
+
+Up to this point in history there was generally one or two Bibles that
+were available at any one time, now there would be an explosion of
+versions, partly as a reaction to the RSV. Some of the most important
+are:
+
+NASB:: New American Standard Bible (1963). A revision of the ASV, very
+literal but not very easy to read. The quality of translation is not
+as good as the RSV but it can be a useful study tool.
+
+NEB:: New English Bible (1970). There was growing concern about the
+poor reception of the RV in England and it was felt the King James was
+beyond repair and a new translation and approach was required. The NEB
+was the first new translations into English since Tyndale. A literal
+translation is known as formal equivalence and although it conveys the
+text accurately it often produced poor English which does not
+communicate the message. The approach pioneered by the NEB was
+dynamic-equivalence. How do we phrase this sentence to communicate the
+message in good English. The NEB was a very readable version with
+excellent English which communicated the feel of the original as well
+as the words. It was updated and released as the Revised English Bible
+(REB).
+
+NIV:: (1973) New International Version. An evangelical response to the
+RSV. Very popular and very readable but not regarded as elegant and
+sometimes readability has been allowed to get in the way of meaning.
+The new (2011) edition seems to read very well.
+
+NRSV:: New Revised Standard (1989). A revision of the RSV. Widely
+regarded as an excellent translation and the one you will normally
+find used in seminaries and colleges. Unlike many other translations
+it was not undertaken with any specific denominational or doctrinal
+bias. It has wide acceptance among the major churches of the world.
+Since 2017 there has been a major effort to update the NRSV and in
+2021 we can expect a new version to be released called the NRSV-UE -
+New revised Standard Version - Updated Edition.
+
+NLT:: New Living Translation (1996). Moves away from the idea of word for
+word accuracy and focues on conveying the entire thought of a sentence
+into everyday, natural English. The idea was to produce a translation
+that would be read and understood as easily as the original text would
+have been read and understood by the orignal readers. It has proved
+very popular.
+
+ESV:: English Standard version (2001). An update of the RSV. Quite
+formal and aiming to be essentially literal and in line with the King
+James tradition.
+
+There are many other worthy versions around: the ISV tries to retain
+the poetic quality of certain texts that is lost in most translations,
+the Lexham makes the translation process transparent so you can see
+the choices they made and why, the Amplified and Extended Bibles embed
+expansions of certain words to aid a fuller understanding. The New
+American Bible and Jerusalem Bibles are specifically Catholic.
+
+A massive effort by hundreds of people has produced a confusing array
+of versions. Which should you use - well amazingly, with all those
+versions and their agendas we can sit in a Bible study with half a
+dozen different versions and switch from one to another with little
+problem. So its actually not a major issue what version you use. Don't
+believe the naysayers who claim that version X or Y is in-errantly
+evil - such talk is nonsense. Pick a version you like, maybe a couple
+of versions, just understand what they are and why.
+
+We are likely to see lots more versions in the future: the critical
+texts are updated regularly, some people still prefer the Majority
+texts, there are plenty of options on the scale of purely literal
+right through to paraphrase and there are plenty of agendas around to
+add some extra interest.
+
+== Conclusion
+
+I was taught Shakespeare at school, nobody was burnt at the stake for
+copying Shakespeare, the government never hunted people across Europe
+and had them murdered for Shakespeare, the ruling elite never feared
+Shakespeare. The Bible is unique, the people who wrote it were
+inspired by God. We are blessed to be in living in an era where we
+have more accurate texts than anyone for the last 1500 years and if
+you don't read Greek - English has the best translations.
+
+What do I use? Generally the NRSV, sometimes the NIV and NLT but when
+checking a verse for a study I will often flip through several
+versions just too see how they line up. Today we can even go online
+and pull up a parallel English:Greek interlinear version. Tyndale
+would have been amazed.
+
+
